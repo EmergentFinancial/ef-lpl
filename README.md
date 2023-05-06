@@ -31,7 +31,7 @@ Add the following comment at the top of each source file of your project.
 // This software is licensed under the Emergent Financial Limited Public License Version 1.0
 // (EF-LPLv1). You may use, copy, modify, and distribute this software under the terms and
 // conditions of the EF-LPL. For more information, please refer to the full text of the license
-// at https://github.com/emergentfinancial/ef-lpl/LICENSE.
+// at https://github.com/emergentfinancial/ef-lpl.
 //
 //
 // THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS
